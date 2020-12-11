@@ -50,7 +50,7 @@ $ python3 pascal_voc.py \
   evaluate\
   --model=model.h5
 ```
-ex: `python3 pascal_voc.py evaluate --model=model/mask_rcnn_coco_0050.h5`
+ex: `python3 pascal_voc.py evaluate --model=model/mask_rcnn_coco_0110.h5`
 
 After testing, it will output a `submission.json` in `Mask_RCNN/output/` folder.
 
