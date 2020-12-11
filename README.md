@@ -38,9 +38,9 @@ ex: `python3 pascal_voc.py train --model=imagenet`
 After training, the model will save to `Mask_RCNN/logs/` folder.
 ```
 model
-+- mask_rcnn_coco_0050.h5
++- mask_rcnn_coco_0110.h5
 ```
-[Here](https://drive.google.com/drive/folders/17wW7i1jNhWoWXyMpot97sT2rHYj3tM6g?usp=sharing) download the model (ex: `mask_rcnn_coco_0050.h5`)
+[Here](https://drive.google.com/drive/folders/17wW7i1jNhWoWXyMpot97sT2rHYj3tM6g?usp=sharing) download the model (ex: `mask_rcnn_coco_0110.h5`)
 
 ## Make Submission
 Following command will ensemble of all models and make submissions.
